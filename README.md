@@ -41,5 +41,5 @@ Estudiante de 4to ciclo de ingenieria biomédica interesada en ingenieria de tej
 
 Rol: Encargada de verificación de Patentes y Documentación Formal
 
-<img width="422" alt="Viviana Rivera" src="https://github.com/user-attachments/assets/89b89ba6-3711-42b3-8d7b-8fb6ae42afd6">
+<img width="375" alt="Viviana Rivera" src="https://github.com/user-attachments/assets/adb9c54c-554f-4baf-9e6d-54021d27b172">
 
