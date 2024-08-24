@@ -33,7 +33,7 @@ Estudiante de Ingeniería Biomédica de 4to ciclo interesado en Ingeniería de t
 
 Rol: Encargado de la programación del prototipado.
 
-![Paolo Carranza](https://github.com/user-attachments/assets/0f175e54-4e05-4ba2-88f0-f6b4ecae4220)
+<img width="375" alt="Paolo Carranza" src="https://github.com/user-attachments/assets/15becc7f-e2ca-4e1f-a046-36c4d6f8f13b">
 
 **- VIVIANA NINOSKA RIVERA GUILLÉN**
   
