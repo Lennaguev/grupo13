@@ -33,7 +33,7 @@ Estudiante de Ingeniería Biomédica de 4to ciclo interesado en Ingeniería de t
 
 Rol: Encargado de la programación del prototipado.
 
-![image](https://github.com/user-attachments/assets/7fc34f29-dccc-4fe4-8080-98920ec86eb4)
+
 
 
 
