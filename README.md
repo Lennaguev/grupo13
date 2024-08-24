@@ -1,5 +1,5 @@
-# grupo13
-Fundamentos de biodiseño
+# Fundamentos de biodiseño
+Grupo 13
 
 *INTEGRANTES* 
 
