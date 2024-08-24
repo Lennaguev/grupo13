@@ -27,6 +27,12 @@ Rol: Encargada del diseño y prototipado electronico.
 
 ![img20240823_21245807](https://github.com/user-attachments/assets/a1c0018f-f74d-434b-8220-71548130b061)
 
+**- PAOLO FABIÁN CARRANZA IZQUIERDO**
 
+Estudiante de Ingeniería Biomédica de 4to ciclo interesado en Ingeniería de tejidos y biomecánica.
+
+Rol: Encargado de la programación del prototipado.
+
+![image](https://web.whatsapp.com/)
 
 
