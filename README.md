@@ -2,6 +2,7 @@
 Fundamentos de biodiseño
 
 *INTEGRANTES* 
+
 **ABIGAIL KARINA ALCAZAR VARGAS**
   
 Estudiante de 4to ciclo de ingenieria biomédica interesada en ingenieria de tejidos y en señales e imágenes biomédicas.
