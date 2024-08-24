@@ -20,6 +20,7 @@ Rol: Encargada de investigación para la el diseño del  prototipado
 ![WhatsApp Image 2024-08-23 at 9 00 35 PM](https://github.com/user-attachments/assets/72964d21-f7b6-4346-af7d-22bcf6994946)
 
 **- LADY PAOLA ECHEVERRÍA VASQUEZ**
+
 Estudiante de 4to ciclo de la carrera de ingeniería biomédica. Interesada en Ingeniería de biomateriales e ingeniería clinica.
 
 Rol: Encargada del diseño y prototipado electronico.
