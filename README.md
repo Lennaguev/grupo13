@@ -41,5 +41,5 @@ Estudiante de 4to ciclo de ingenieria biomédica interesada en ingenieria de tej
 
 Rol: Encargada de verificación de Patentes y Documentación Formal
 
-![IMG_20240621_114831]("C:\Users\vnrg2\OneDrive\Escritorio\Ing Biomed UPCH-PUCP\IMG_20240621_114831.jpg")
+![IMG_20240621_114831](https://github.com/user-attachments/assets/f18e89d5-437a-4ac0-a36c-1c2b63ebe5de)
 
