@@ -39,7 +39,7 @@ Rol: Encargado de la programación del prototipado.
   
 Estudiante de 4to ciclo de ingenieria biomédica interesada en ingenieria de tejidos y Biomecánica.
 
-Rol: Encargada de verificación de Patentes y Documentación Formal
+Rol: Encargada de Investigación de Patentes y Manufactura Digital
 
 <img width="375" alt="Viviana Rivera" src="https://github.com/user-attachments/assets/adb9c54c-554f-4baf-9e6d-54021d27b172">
 
