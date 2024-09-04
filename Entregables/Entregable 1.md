@@ -78,7 +78,7 @@ Fig. 1: Indicadores hospitalarios anuales 2023
    Fig. 2: Diagrama de Ishikawa con Causas relacionado a la problemática de Amputados
 
 6. **Definición del problema**  
-   *“La falta de independencia en amputados de miembro inferior a nivel AK F3 debido a la relentización de proceso de cicatrización que impide rehabilitación más rápida por antecedente de diabetes mellitus.”*   
+   *“La falta de independencia en amputados de miembro inferior a nivel AK F3 debido a la ralentización de proceso de cicatrización que impide rehabilitación más rápida por antecedente de diabetes mellitus.”*   
      
 7. **Estado del arte/ contexto científico**  
 
@@ -121,7 +121,7 @@ Fig. 5: Coste de Producción en Fabricación de Prótesis [\[17\]](https://upcom
 ###### TABLA VII: MATERIALES TERMOPLÁSTICOS COMÚNMENTE USADOS PARA LA FABRICACIÓN DE SOCKETS
 | Materiales Termoplástico | Descripción |
 | :---- | :---- |
-| Polipropileno (PP) | El polipropileno es el plástico más ligero  utilizado  en  prótesis,  se  caracteriza  por  su  alta resistencia,  a la tracción, rigidez y  dureza.  Entre  sus  limitantes  se resalta su sensibilidad a la deformación y deterioro por calor \[19\] |
+| Polipropileno (PP) | El polipropileno es el plástico más ligero  utilizado  en  prótesis,  se  caracteriza  por  su  alta resistencia,  a la tracción, rigidez y  dureza.  Entre  sus  limitantes  se resalta su sensibilidad a la deformación y deterioro por calor [\[18\]](https://revistas.unal.edu.co/index.php/revfacmed/article/view/64470/71001)|
 | Polietileno (PE) | Se caracteriza por su flexibilidad y también por ser liviano esto ayuda a la fabricación de dispositivos que requieren flexibilidad para usuarios con poco recubrimiento de muñón. [\[18\]](https://revistas.unal.edu.co/index.php/revfacmed/article/view/64470/71001) |
 
 Los materiales termoplásticos son los que son comúnmente usados para la elaboracion de protesis por las buenas propiedades ya mencionados sin embargo presenta algunas desventajas como su sensibilidad a las altas temperaturas.Cabe recalcar que el tiempo de vida útil es corto por lo que no es un material de uso ecoamigable. Sin embargo siguen siendo una opción viable para la elaboración de prótesis.
