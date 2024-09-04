@@ -58,6 +58,7 @@ Aunque un paciente haya sufrido una amputación traumática, el que éste padezc
 En nuestro país los pacientes amputados solo cuentan con un centro especializado en  rehabilitación integral llamado Instituto Nacional de Rehabilitación (INR), el cual está ubicado en la capital.  En el año 2023 se diagnosticó y trató a  101 personas amputadas de nivel A.K en el Departamento de Amputados, Quemados y Trastornos Posturales (AQTP), los cuales representan el 4.3% de un total de 2347 personas.[\[11\]](https://cdn.www.gob.pe/uploads/document/file/5729586/5088554-rd-009-2024-sa-dg-inr.pdf)
 
 ![image](https://github.com/user-attachments/assets/a8f09de1-17f6-4f5a-9a5b-9aaaf6f8de5b)
+
 Fig. 1: Indicadores hospitalarios anuales 2023
     
     
@@ -98,6 +99,7 @@ Fig. 1: Indicadores hospitalarios anuales 2023
 Fig. 3: Simulación de flexión y extensión de Prótesis Transfemoral basado en Redes Neuronales
 
 ![image](https://github.com/user-attachments/assets/d40783d1-6a5f-4065-9dd5-c0e6f7f4c562)
+
 Fig. 4: Integración de subsistemas mecánico y control de Prótesis Transfemoral basado en Redes Neuronales
 
 
