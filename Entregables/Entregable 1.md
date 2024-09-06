@@ -74,13 +74,15 @@ Fig. 1: Indicadores hospitalarios anuales 2023
 
 4. **Diagrama de Ishikawa**
 
-   ![image](https://github.com/user-attachments/assets/c9b2ff05-cee2-4d38-9e77-7956863b56f6)
+   ![image](![image](https://github.com/user-attachments/assets/99592195-921b-4bdf-a681-f3cbb7cb4723)
+
    Fig. 2: Diagrama de Ishikawa con Causas relacionado a la problemática de Amputados
 
-6. **Definición del problema**  
-   *“La falta de independencia en amputados de miembro inferior a nivel AK F3 debido a la ralentización de proceso de cicatrización que impide rehabilitación más rápida por antecedente de diabetes mellitus.”*   
+6. **Definición del problema**
+   
+   *“Dificultad en la marcha debido a problemas de adaptabilidad de la prótesis al muñón del paciente con diabetes y amputacion nivel AK F3”*   
      
-7. **Estado del arte/ contexto científico**  
+8. **Estado del arte/ contexto científico**  
 
    ###### TABLA V: PRODUCTOS EN EL MERCADO PARA AMPUTADOS DEL MIEMBRO INFERIOR
 
