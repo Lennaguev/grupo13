@@ -80,7 +80,7 @@ Fig. 1: Indicadores hospitalarios anuales 2023
 
 6. **Definición del problema**
    
-   *“Dificultad en la marcha debido a problemas de adaptabilidad de la prótesis al muñón del paciente con diabetes y amputacion nivel AK F3”*   
+   *“Dificultad en la marcha debido a problemas de adaptabilidad de la prótesis al muñón del paciente amputacion nivel AK F3”*   
      
 8. **Estado del arte/ contexto científico**  
 
