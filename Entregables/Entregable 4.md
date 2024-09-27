@@ -45,7 +45,9 @@ La opción 1 se destaca entre las tres propuestas debido a que obtuvo la mayor p
 
 **6.- Bocetos:**
 TITULO DE PROPUESTA: CALCETÍN SEMIFLEXIBLE DE SILICONA POR MONITOREO DE PUNTO DE PRESIÓN NOTIFICADO POR CELULAR
+
 DIBUJADO POR: Viviana Ninoska Rivera Guillén
+
 BOCETO EN CONJUNTO:
 ![image](https://github.com/user-attachments/assets/ad8a647b-8805-451e-abc4-ca667d8337f7)
 
