@@ -23,7 +23,8 @@
 * **Observar:** Observar el cambio de datos almacenados a través del tiempo.
 
 **3.- Matriz Morfológica**  
-**![][image1]**
+![image](https://github.com/user-attachments/assets/eae8b62a-f748-401f-92fd-9b8c764a26f3)
+
 
 **4.- Tabla de valoración**
 
