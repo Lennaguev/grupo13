@@ -1,5 +1,5 @@
 ###     **1.- Caja Negra**
-
+![image](https://github.com/user-attachments/assets/73ff83f0-16d3-4204-b824-da86a5ab02ff)
 #### **Entradas:**
 
 1. **Fuente de energía:** Mantiene activos los sensores, el sistema de procesamiento de señales, y la comunicación con dispositivos externos para el almacenamiento o transmisión de datos.  
@@ -12,6 +12,8 @@
 2. **Información sobre la distribución de fuerzas en situaciones dinámicas:** Datos que muestran cómo cambian las fuerzas en el muñón durante actividades como caminar, correr o subir escaleras.
 
 **2.- Esquema de Funciones**
+
+![image](https://github.com/user-attachments/assets/86518c56-6340-4cec-a78d-0fff37cab80e)
 
 * **Operar:** Operar los sensores alimentando enérgicamente los componentes del proyecto  
 * **Captura:** Capturar los datos de la muestra (presión, tensión y cambio volumétrico) mediante los sensores  
