@@ -1,8 +1,8 @@
 ![Captura de pantalla 2024-10-24 222601](https://github.com/user-attachments/assets/15a86ee5-123c-49d8-807d-ba76e3f72e0c)
 ![image](https://github.com/user-attachments/assets/1cdfa3d3-37ca-419f-a060-02fd0aeabaf9)
 ![image](https://github.com/user-attachments/assets/2cd48ba4-ce2d-42ac-b583-a13252ba52f8)
-BOCETO
-
+![image](https://github.com/user-attachments/assets/a9dd32aa-8419-4dbf-b2e4-974fe7b58fce)
+![image](https://github.com/user-attachments/assets/f20da16f-2b25-481b-8dd0-963e96132bcd)
 ![image](https://github.com/user-attachments/assets/188ae273-1196-4407-925d-291c44f725f3)
 ![image](https://github.com/user-attachments/assets/cfcc9050-fdef-43b3-b5a2-0d61e5130fc6)
 ![image](https://github.com/user-attachments/assets/abb1faad-4672-49ae-a671-41e9a16a0ae7)
