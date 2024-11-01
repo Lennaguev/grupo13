@@ -1,0 +1,10 @@
+![image](https://github.com/user-attachments/assets/28b099f2-9efb-4e83-9687-6ccd298d60cd)
+![image](https://github.com/user-attachments/assets/cbcd2ffa-3769-4bf0-97db-daa83d368d92)
+![image](https://github.com/user-attachments/assets/0bb24c35-f49b-4eff-aee9-0ca54ea69b86)
+![image](https://github.com/user-attachments/assets/6b878610-b626-4531-8277-0797c0e05bc7)
+![image](https://github.com/user-attachments/assets/1286c60a-3700-4efb-9899-54b449b2e385)
+![image](https://github.com/user-attachments/assets/9d3e9a03-3fea-4c37-8755-7aed1c3c3812)
+![image](https://github.com/user-attachments/assets/312bf087-6d1d-429b-9ba9-969487e51ed0)
+![image](https://github.com/user-attachments/assets/bc6b6b45-4112-4e5f-8e1f-3e2f03e67c2f)
+![image](https://github.com/user-attachments/assets/5bafdc5f-eb3d-4d45-9728-f1785f611f67)
+https://cad.onshape.com/documents/64f8fe0cf73936eec21aee19/w/a115c0a505cd3cc3481bd7ef/e/b61a0160956c2c94d8190df8?renderMode=0&uiState=67245faf8e76080bdaa36909
